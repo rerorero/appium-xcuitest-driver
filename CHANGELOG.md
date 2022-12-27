@@ -1,3 +1,31 @@
+## [4.16.3](https://github.com/appium/appium-xcuitest-driver/compare/v4.16.2...v4.16.3) (2022-12-19)
+
+
+### Bug Fixes
+
+* set permissions for simulator ([#1473](https://github.com/appium/appium-xcuitest-driver/issues/1473)) ([a885628](https://github.com/appium/appium-xcuitest-driver/commit/a8856286ea7304a9c2ec3ed8c46a5c66526bc102))
+
+## [4.16.2](https://github.com/appium/appium-xcuitest-driver/compare/v4.16.1...v4.16.2) (2022-12-18)
+
+
+### Bug Fixes
+
+* XCTest command ([#1471](https://github.com/appium/appium-xcuitest-driver/issues/1471)) ([d176f45](https://github.com/appium/appium-xcuitest-driver/commit/d176f455c23b4c6b59ff72be36d3050c60bcf470))
+
+## [4.16.1](https://github.com/appium/appium-xcuitest-driver/compare/v4.16.0...v4.16.1) (2022-12-17)
+
+
+### Bug Fixes
+
+* /wda/device/appearance as withoutSession ([#1472](https://github.com/appium/appium-xcuitest-driver/issues/1472)) ([00eba1d](https://github.com/appium/appium-xcuitest-driver/commit/00eba1d9eb42c998ffe93d978cb9fb4c5f761b35))
+
+## [4.16.0](https://github.com/appium/appium-xcuitest-driver/compare/v4.15.2...v4.16.0) (2022-12-16)
+
+
+### Features
+
+* Bump the major version of appium-ios-simulator ([#1468](https://github.com/appium/appium-xcuitest-driver/issues/1468)) ([c9fc1dc](https://github.com/appium/appium-xcuitest-driver/commit/c9fc1dc7d70a2050435a651d77bc6e37253965cd))
+
 ## [4.15.2](https://github.com/appium/appium-xcuitest-driver/compare/v4.15.1...v4.15.2) (2022-12-14)
 
 
